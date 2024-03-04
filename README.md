@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Young-genius-md/Young-Genius-md">
-    <img alt="Suhail docs" height="300" src="Karma-points-with-Axenia.jpg">
+    <img alt="Suhail docs" height="300" src="Src/Karma-points-with-Axenia.jpg">
   </a>
 </p>
     

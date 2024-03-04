@@ -1,5 +1,5 @@
  <h1 align="center"> Young-Genius md😁 </h1> 
-<p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing Young-Genius bot, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://github.com/Giftedmaurice/gifted-bot-md">
@@ -13,7 +13,7 @@
   <a href="https://wa.me/+254790741059?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Young-Genius md" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ is free to use" href="https://github.com/Giftedmaurice/gifted-bot-md" target="_blank">
+  <a aria-label="Genius MD is free to use" href="https://github.com/Giftedmaurice/gifted-bot-md" target="_blank">
     <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -38,9 +38,7 @@
   <a href="https://github.com/Giftedmaurice/gifted-bot-md"><b>Gifted-Bot</b></a> Support Deploy On...
 </p>
 
-<p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
+
 </p>
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FGiftedmaurice%2Fgifted-bot-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>

@@ -40,7 +40,7 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| "Young Genius",
   packname: process.env.PACK_NAME || "💖",
-  botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+  botname : process.env.BOT_NAME  || "Young-Genius MD",
   ownername:process.env.OWNER_NAME|| "It's Young Genius",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 

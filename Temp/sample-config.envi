@@ -1,7 +1,7 @@
 NOTE =  ____REMOVE THIS LINE AFTER RENAMING sample.env to .env ____
 
 OWNER_NUMBER="254790741059"
-SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
+SESSION_ID = " "
 THUMB_IMAGE = "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
 OWNER_NAME = "Young-Genius"
 PREFIX = .
